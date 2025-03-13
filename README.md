@@ -1,6 +1,8 @@
 # 🔥 Social Engineering Tactics
 
-Welcome to the **Social Engineering Tactics** repository! 🕵️‍♂️ This repo. contains ** real-world social engineering tactics** used for **manipulation, persuasion, and deception**. Stay aware and stay secure!
+Welcome to the **Social Engineering Tactics** repository! This repo. contains ** real-world social engineering tactics** used for **manipulation, persuasion, and deception**. Stay aware and stay secure!
+
+![social engineering tactics list](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTcwdTMyem01YTJxaG5yM2I0bGNkOXEweDFuenR6aXI0dmFlNjd1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mSXSC0vivvygw/giphy.gif)
 
 ## 📌 Categories of Social Engineering
 - **Psychological Manipulation** 🧠
