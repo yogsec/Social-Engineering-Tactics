@@ -4,6 +4,19 @@ Welcome to the **Social Engineering Tactics** repository! This repo. contains **
 
 ![social engineering tactics list](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTcwdTMyem01YTJxaG5yM2I0bGNkOXEweDFuenR6aXI0dmFlNjd1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mSXSC0vivvygw/giphy.gif)
 
+<div align="center">
+      <a href="https://www.whatsapp.com/channel/0029Vb68FeRFnSzGNOZC3h3x"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=WhatsApp+Channel&amp;color=25D366&amp;logo=&amp;logoColor=FFFFFF&amp;label=" alt="WhatsApp Channel"></a>
+  <a href="https://t.me/HackerSecure"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Telegram+Channel&amp;color=24A1DE&amp;logo=&amp;logoColor=FFFFFF&amp;label=" alt="Telegram Channel"></a>
+  <a href="https://www.linkedin.com/in/cybersecurity-pentester/"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=LinkedIn&amp;color=0A66C2&amp;logo=LinkedIn&amp;logoColor=FFFFFF&amp;label=" alt="LinkedIn"></a>
+  <a href="https://linktr.ee/yogsec"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=LinkTree&amp;color=25D366&amp;logo=&amp;logoColor=FFFFFF&amp;label=" alt="WhatsApp Channel"></a>
+  <a href="https://x.com/home"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=X&amp;color=000000&amp;logo=&amp;logoColor=FFFFFF&amp;label=" alt="Lichess"></a>
+  <a href="mailto:abhinavsingwal@gmail.com?subject=Hi%20YogSec%20,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Gmail&amp;color=EA4335&amp;logo=Gmail&amp;logoColor=FFFFFF&amp;label="></a>
+  <a href="https://yogsec.github.io/yogsec/"><img src="https://img.shields.io/static/v1?style=for-the-badge&amp;message=Website&amp;color=FFFFC5&amp;logo=&amp;logoColor=FFFFFF&amp;label=" alt="Telegram Channel"></a>  
+  
+</div>
+
+---
+
 ## 📌 Categories of Social Engineering
 - **Psychological Manipulation** 🧠
 - **Building Trust & Rapport** 🤝
@@ -105,26 +118,3 @@ Welcome to the **Social Engineering Tactics** repository! This repo. contains **
 - Use **multi-factor authentication (MFA)** to protect accounts.
 - **Limit social media sharing** of personal details.
 - Train employees & teams on **security awareness**.
-
----
-
-## 🌟 Let's Connect!
-
-Hello, Hacker! 👋 We'd love to stay connected with you. Reach out to us on any of these platforms and let's build something amazing together:
-
-🌐 **Website:** [https://yogsec.github.io/yogsec/](https://yogsec.github.io/yogsec/)  
-📜 **Linktree:** [https://linktr.ee/yogsec](https://linktr.ee/yogsec)  
-🔗 **GitHub:** [https://github.com/yogsec](https://github.com/yogsec)  
-💼 **LinkedIn (Company):** [https://www.linkedin.com/company/yogsec/](https://www.linkedin.com/company/yogsec/)  
-📷 **Instagram:** [https://www.instagram.com/yogsec.io/](https://www.instagram.com/yogsec.io/)  
-🐦 **Twitter (X):** [https://x.com/yogsec](https://x.com/yogsec)  
-👨‍💼 **Personal LinkedIn:** [https://www.linkedin.com/in/cybersecurity-pentester/](https://www.linkedin.com/in/cybersecurity-pentester/)  
-📧 **Email:** abhinavsingwal@gmail.com
-
----
-
-## ☕ Buy Me a Coffee
-
-If you find our work helpful and would like to support us, consider buying us a coffee. Your support keeps us motivated and helps us create more awesome content. ❤️
-
-☕ **Support Us Here:** [https://buymeacoffee.com/yogsec](https://buymeacoffee.com/yogsec)
